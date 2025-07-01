@@ -1,29 +1,9 @@
- I share my knowledge and experiences through my content on YouTube, where I post tutorials, walkthroughs, and discussions about cybersecurity, Linux, hacking tools, and digital privacy. You can also catch my thoughts, tips, and updates on Twitter (X) and LinkedIn.
+🚀 About Me
+I'm CyberWolf — a passionate Cybersecurity Enthusiast and ethical hacker. I explore penetration testing, OSINT, network security, and bug bounty hunting. I love breaking things to make them secure.
 
-🛠️ Skills & Tools
-🕵️‍♂️ OSINT & Reconnaissance
+I also create content on YouTube, share insights on Twitter, and connect with professionals on LinkedIn.
 
-💻 Ethical Hacking & Penetration Testing
-
-🔐 Network Security
-
-🐧 Linux & Cybersecurity Labs
-
-🐞 Bug Bounty Hunting
-
-🛠️ Tools: Nmap, Wireshark, Burp Suite, Metasploit, Aircrack-ng, Hydra, John the Ripper, and more
-
-📚 Always Learning & Improving
-
-🌐 Connect with Me
-🔗 LinkedIn – Connect professionally, let's grow together!
-
-🎥 YouTube – Subscribe for cybersecurity videos, hacking tutorials, and tech content.
-
-🐦 Twitter (X) – Follow me for daily updates, tips, and cybersecurity thoughts.
-🔥 Motto
-"In a world full of vulnerabilities, be the firewall."
-"Hack the planet — ethically."
+"Hack to protect. Stay curious, stay secure."
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr_root0259) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/didwmsa01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/didwmsa-bargayary-1848a1215) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@didwmsaxander61) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CYBERWO04021869) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@cyberwolf4572) 
